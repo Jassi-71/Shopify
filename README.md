@@ -4,7 +4,7 @@ To directly see about the site [user guide](https://github.com/ashcode028/Shopif
 
 Team Members - Jasdeep Singh, Ashita Boyina, Naval Kumar Shukla, Rohit Roy, Shanu Verma.
 
-This is the main Repo for this project - [Main Repo](https://github.com/Shanu85/Shopify) (From where the file has been forked).
+This is the main Repo for this project - [Main Repo](https://github.com/Shanu85/Shopify) (From where it has been forked).
 
 ##  Main Features
 A user should be able to use this system any place and any time with the availability of internet and web browsers. In addition to specific requirements mentioned below, all the global standards / laws with respect to e-commerce websites should be strictly followed. 
